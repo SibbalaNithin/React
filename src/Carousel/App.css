@@ -1,0 +1,15 @@
+.img{
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  } 
+  
+  .btn{
+    position: absolute;
+    /* width: 100vh; */
+    justify-content: space-between;
+    display: flex;
+    top: 70%;
+  }
